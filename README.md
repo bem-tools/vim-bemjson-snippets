@@ -17,6 +17,18 @@ Or you can include it in your vim-snippets directory.
 
 ## Usage
 
+For example:
+
+Write b and hold down ctrl+k then it expant to:
+```
+    {
+        block : '${1:name}',
+        content : [
+            '${2:content}'
+        ]
+    }
+```
+
 ### Block
 ```
 b
