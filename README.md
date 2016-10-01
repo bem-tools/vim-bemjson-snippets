@@ -2,11 +2,15 @@
 Bemjson-snippets for vim.
 
 ## Install
-Put it in you vim-snippets dir. 
+It include in http://vim.spf13.com/
+to install spf-13 
+```
+curl http://j.mp/spf13-vim3 -L -o - | sh
+```
 
-In my case it - 
-/Users/USERNAME/.vim/bundle/vim-snippets/snippets/javascript/bemjson.snippets
-( I am using - http://vim.spf13.com/ and to expand a snippet i clamp the key combination ctrl+k after typing shortcuts )
+Or you can include it in your vim-snippets directory. 
+
+
 
 ![gif](https://github.com/vkhv/vim-bemjson-snippets/blob/master/bem-snippets.gif)
 
