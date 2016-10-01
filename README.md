@@ -3,6 +3,7 @@ Bemjson-snippets for vim.
 
 ## Install
 It include in http://vim.spf13.com/
+
 to install spf-13 
 ```
 curl http://j.mp/spf13-vim3 -L -o - | sh
