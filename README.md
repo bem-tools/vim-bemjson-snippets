@@ -19,7 +19,8 @@ Or you can include it in your vim-snippets directory.
 
 For example:
 
-Write b and hold down ctrl+k then it expant to:
+Write b and hold down ctrl+k then it will expand to:
+
 ```
     {
         block : '${1:name}',
