@@ -6,11 +6,11 @@ Put it in you vim-snippets dir.
 In my case it - 
 /Users/USERNAME/.vim/bundle/vim-snippets/snippets/javascript/bemjson.snippets
 
+![gif](https://github.com/vkhv/vim-bemjson-snippets/blob/master/bem-snippets.gif)
 
 
 
-
-
+## Licence
 
 Copyright © 2016 Vladislav Khvostov vladkhvo@gmail.com
 
