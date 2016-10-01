@@ -1,8 +1,10 @@
-### bemjson-snippets-for-vim
+# bemjson-snippets-for-vim
 
 ## Install
-Put it in you vim-snippets dir. In my case it - 
-/Users/USERNAME/.vim/bundle/vim-snippets/snippets/javascript
+Put it in you vim-snippets dir. 
+
+In my case it - 
+/Users/USERNAME/.vim/bundle/vim-snippets/snippets/javascript/bemjson.snippets
 
 
 
