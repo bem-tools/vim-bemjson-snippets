@@ -10,7 +10,7 @@ In my case it -
 
 ## Usage
 
-### Blocks
+### Block
 ```
 b
     {
@@ -40,9 +40,9 @@ snippet bwm
         ]
     }
 ```
-### Elems
 
-# e - BEM elem
+
+### e - BEM elem
 ```
 snippet e
     {
