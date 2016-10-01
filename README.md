@@ -31,7 +31,7 @@ Write b and hold down ctrl+k then it will expand to:
 ```
 
 ## Supported snippets
-### Block
+### For blocks
 ```
 b
     {
