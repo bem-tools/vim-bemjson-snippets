@@ -6,6 +6,7 @@ Put it in you vim-snippets dir.
 
 In my case it - 
 /Users/USERNAME/.vim/bundle/vim-snippets/snippets/javascript/bemjson.snippets
+( I am using - http://vim.spf13.com/ and to expand a snippet i clamp the key combination ctrl+k after typing shortcuts )
 
 ![gif](https://github.com/vkhv/vim-bemjson-snippets/blob/master/bem-snippets.gif)
 
