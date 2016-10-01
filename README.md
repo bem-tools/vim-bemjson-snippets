@@ -1,4 +1,5 @@
-# bemjson-snippets-for-vim
+# vim-bemjson-snippets 
+Bemjson-snippets for vim.
 
 ## Install
 Put it in you vim-snippets dir. 
