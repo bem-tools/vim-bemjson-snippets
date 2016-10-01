@@ -2,7 +2,7 @@
 Bemjson-snippets for vim.
 
 ## Install
-It include in http://vim.spf13.com/ by default.
+It include in http://vim.spf13.com/ and https://github.com/honza/vim-snippets by default.
 
 To install spf-13 
 ```
