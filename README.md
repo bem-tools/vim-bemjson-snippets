@@ -9,7 +9,7 @@ To install spf-13
 curl http://j.mp/spf13-vim3 -L -o - | sh
 ```
 
-Or you can include it in your vim-snippets directory. 
+Or you can clone it in your vim-snippets directory. 
 
 
 
